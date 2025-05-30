@@ -2,6 +2,8 @@
 
 This is a freelance-style database project designed to manage events, attendees, ticket types, and revenue analytics. Modeled after real-world use cases for small event-based businesses.
 
+[![View My Freelance Packages](https://img.shields.io/badge/Freelance%20Packages-%F0%9F%92%BC-blueviolet?style=for-the-badge)](https://github.com/YoussufSalah/freelance-packages)
+
 ## 📁 Features
 
 -   Normalized relational schema (6+ tables)
